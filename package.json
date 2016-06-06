@@ -1,6 +1,6 @@
 {
   "name": "gulp-bower-license-finder",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Gulp plugin to find licenses of bower packages and their dependencies",
   "main": "index.js",
   "scripts": { },

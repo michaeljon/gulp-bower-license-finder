@@ -17,10 +17,8 @@ gulp.task('bower-license', function() {
 });
 ```
 
-This will attempt to identify licenses in your node project and its dependencies, and will provide a file stream
-that can be piped to an 'audit' destination folder.  The file will have a default 'licenses.txt' filename.
-
-To change the output filename, add the name as an argument to licenseFind, for example:
+This will attempt to identify licenses in your project and its dependencies, and will provide a file stream
+that can be piped to an 'audit' destination folder.
 
 ## LICENSE
 

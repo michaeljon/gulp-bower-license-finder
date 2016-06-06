@@ -1,5 +1,9 @@
 ## gulp-bower-license-finder
 
+## Installation
+
+npm install --save-dev gulp-bower-license-finder
+
 ## Usage
 
 ```javascript

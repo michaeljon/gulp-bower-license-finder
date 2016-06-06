@@ -2,7 +2,9 @@
 
 ## Installation
 
+```
 npm install --save-dev gulp-bower-license-finder
+```
 
 ## Usage
 

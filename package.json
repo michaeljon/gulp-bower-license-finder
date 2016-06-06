@@ -1,11 +1,9 @@
 {
-  "name": "gulp-license-finder",
-  "version": "0.3.2",
-  "description": "Find licenses of project and dependencies",
+  "name": "gulp-bower-license-finder",
+  "version": "0.1.1",
+  "description": "Gulp plugin to find licenses of bower packages and their dependencies",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha --reporter spec"
-  },
+  "scripts": { },
   "repository": {
     "type": "git",
     "url": "git://github.com/LironT/gulp-bower-license-finder"

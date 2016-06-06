@@ -24,9 +24,9 @@
   "author": "Liron Tagger",
   "license": "MIT",
   "bugs": {
-    "url": "git://github.com/iandotkelly/gulp-license-finder/issues"
+    "url": "git://github.com/LironT/gulp-bower-license-finder/issues"
   },
-  "homepage": "git://github.com/iandotkelly/gulp-license-finder",
+  "homepage": "git://github.com/LironT/gulp-bower-license-finder",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-jshint": "^1.11.2",

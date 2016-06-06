@@ -1,0 +1,43 @@
+{
+  "name": "gulp-license-finder",
+  "version": "0.3.2",
+  "description": "Find licenses of project and dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LironT/gulp-bower-license-finder"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "license",
+    "finder",
+    "sniffer",
+    "nlf",
+    "audit",
+    "bower",
+    "checker",
+    "legal",
+    "dependency"
+  ],
+  "author": "Liron Tagger",
+  "license": "MIT",
+  "bugs": {
+    "url": "git://github.com/iandotkelly/gulp-license-finder/issues"
+  },
+  "homepage": "git://github.com/iandotkelly/gulp-license-finder",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-util": "^3.0.6"
+  },
+  "dependencies": {
+    "bower-license": "^0.4.1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
